@@ -1,0 +1,20 @@
+
+.fa-angle-up:before {
+    content: "\f106";
+    color: #fff;
+    font-weight: bolder;
+}
+.team-card-header figure {
+    width: 100%;
+    height: 352px;
+        img{width: 100%;
+        height: 100%;
+        object-fit: cover;}
+}
+.blog-top figure {
+    height: 237px;
+    width: 100%;
+    img{width: 100%;
+        height: 100%;
+        object-fit: cover;}
+}
